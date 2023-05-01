@@ -8,6 +8,7 @@ https://nemutas.github.io/floating-primitives/
 
 # References
 
+- [Rapier for JavaScript](https://github.com/dimforge/rapier.js)
 - [rapier3d instancing](https://threejs.org/examples/?q=rap#physics_rapier_instancing)
 - [three.js examples code](https://github.com/mrdoob/three.js/blob/master/examples/jsm/physics/RapierPhysics.js)
 - [@react-three/rapier](https://pmndrs.github.io/react-three-rapier/index.html)
